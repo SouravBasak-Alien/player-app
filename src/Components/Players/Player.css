@@ -1,0 +1,17 @@
+.playerBody{
+	display: flex;
+	padding: 5px;
+}
+.plyerInfo{
+	width: 70%;
+	margin-left: 15px;
+	margin-right: 5px;
+	padding: 0, 5px;
+}
+.selectPlayer{
+	width: 30%;
+	margin-left: 15px;
+	padding: 0, 5px;
+	background-color: #fafa62;
+
+}
